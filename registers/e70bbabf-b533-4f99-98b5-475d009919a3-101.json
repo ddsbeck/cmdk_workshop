@@ -4170,7 +4170,7 @@
     }, {
       "column_name" : "IE_TIPO_OBJETO",
       "data_type" : "VARCHAR2",
-      "new_value" : "PROCEDURE",
+      "new_value" : null
       "old_value" : null
     }, {
       "column_name" : "DT_ATUALIZACAO",
