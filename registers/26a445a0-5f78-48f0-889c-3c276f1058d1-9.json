@@ -23,7 +23,7 @@
     "primary_key_values" : [ {
       "column_name" : "NR_SEQUENCIA",
       "data_type" : "NUMBER",
-      "new_value" : null,
+      "new_value" : 23169,
       "old_value" : null
     } ],
     "column_values" : [ {
