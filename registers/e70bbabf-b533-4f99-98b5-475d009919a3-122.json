@@ -23,7 +23,7 @@
     "primary_key_values" : [ {
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
-      "new_value" : "VVRE_GER_INS_AUT_CONV_HIST",
+      "new_value" : null,
       "old_value" : null
     }, {
       "column_name" : "IE_BANCO",
