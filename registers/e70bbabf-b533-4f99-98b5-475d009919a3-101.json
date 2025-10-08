@@ -179,7 +179,7 @@
     }, {
       "column_name" : "DS_ROTA",
       "data_type" : "VARCHAR2",
-      "new_value" : "/vvref7",
+      "new_value" : null,
       "old_value" : null
     }, {
       "column_name" : "IE_SCHEMATIC_ARQUIVO",
